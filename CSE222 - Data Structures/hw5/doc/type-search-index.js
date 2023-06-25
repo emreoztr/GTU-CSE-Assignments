@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"driver"},{"p":"<Unnamed>","l":"HashMapCoalesced"},{"p":"<Unnamed>","l":"HashMapListChain"},{"p":"<Unnamed>","l":"HashMapTreeSetChain"},{"p":"<Unnamed>","l":"IterableHashMap"},{"p":"<Unnamed>","l":"KWHashMap"},{"p":"<Unnamed>","l":"MapIter"}]
