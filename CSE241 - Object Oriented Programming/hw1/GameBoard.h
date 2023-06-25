@@ -1,0 +1,8 @@
+#ifndef GAMEBOARD_H_
+#define GAMEBOARD_H_
+
+int gboard_prep(char board[12][12]);
+void gboard_print(char board[12][12], int size);
+
+
+#endif
